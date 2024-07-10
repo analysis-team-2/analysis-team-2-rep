@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,linux,react,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,linux,react,java
 
+/analysis/data/
+
 ### Java ###
 # Compiled class file
 *.class
