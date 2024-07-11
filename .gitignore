@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,linux,react,java
 
 /analysis/data/
+**/AutogluonModels/
 
 ### Java ###
 # Compiled class file
