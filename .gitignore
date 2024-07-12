@@ -3,7 +3,7 @@
 
 /analysis/data/
 **/AutogluonModels/
-
+**/models/
 ### Java ###
 # Compiled class file
 *.class
