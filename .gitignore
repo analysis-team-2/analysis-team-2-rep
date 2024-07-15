@@ -3,7 +3,10 @@
 
 /analysis/data/
 **/AutogluonModels/
+**/catboost_info/
 **/models/
+*.csv
+
 ### Java ###
 # Compiled class file
 *.class
