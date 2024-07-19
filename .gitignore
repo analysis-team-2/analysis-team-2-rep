@@ -5,6 +5,7 @@
 **/AutogluonModels/
 **/catboost_info/
 **/models/
+**/models2/
 *.csv
 
 ### Java ###
