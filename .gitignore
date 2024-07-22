@@ -2,6 +2,11 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,linux,react,java
 
 /analysis/data/
+**/AutogluonModels/
+**/catboost_info/
+**/models/
+**/models2/
+*.csv
 
 ### Java ###
 # Compiled class file
